@@ -1,0 +1,75 @@
+body{
+  background-color: rgb(143, 141, 141);
+}
+.background{
+  display: flex;
+}
+h1{
+  font-family: "Trirong", serif;
+  text-align: center;
+  font-size: 50px;
+  margin: auto;
+  margin-left: 70px;
+}   
+#photo{
+  width: 500px;
+  height: 300px;
+  margin: 10px 200px;
+} 
+Div{
+  text-align: center;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+  font-size: 20px;
+}
+button{
+  border: 2px solid black;
+  color: rgb(25, 0, 255);
+  font-size: 15px;
+  margin: 20px;
+  
+} 
+button:hover{
+  font-size: 18px;
+  cursor: pointer;
+}
+h2{
+  background-color: rgb(95, 70, 70);
+  text-align: center;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgb(133, 133, 212);
+}
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 40%;
+border: 2px solid black;
+}
+img:hover{
+  width: 60%; 
+}
+section{
+  text-align: center;
+  font-family: fantasy;
+  margin: 10px;
+}
+p{
+  text-align: center;
+  font: 20px Arial, sans-serif;
+}
+.footer{
+  background-color:rgb(95, 70, 70);
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  font-weight: bold;
+ 
+}
+
+.main{
+  background-color: rgb(221, 230, 227);
+}
+.a{
+  cursor: pointer;
+}
